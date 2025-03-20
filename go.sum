@@ -4,9 +4,9 @@ github.com/blang/semver v3.5.1+incompatible h1:cQNTCjp13qL8KC3Nbxr/y2Bqb63oX6wdn
 github.com/blang/semver v3.5.1+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
 github.com/dchest/uniuri v0.0.0-20160212164326-8902c56451e9 h1:74lLNRzvsdIlkTgfDSMuaPjBr4cf6k7pwQQANm/yLKU=
 github.com/dchest/uniuri v0.0.0-20160212164326-8902c56451e9/go.mod h1:GgB8SF9nRG+GqaDtLcwJZsQFhcogVCJ79j4EdT0c2V4=
+github.com/jellydator/sessionup v1.5.0 h1:pJHfbhgPMsQppWRkoiLcKj04J9H5BNqgjIOAZ3/AfIM=
+github.com/jellydator/sessionup v1.5.0/go.mod h1:03hishDPwb8SfU/oGhUjMHVPvF2w2JTbFYliz9ipdQg=
 github.com/lib/pq v1.2.0 h1:LXpIM/LZ5xGFhOpXAQUIMM1HdyqzVYM13zNdjCEEcA0=
 github.com/lib/pq v1.2.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
-github.com/swithek/sessionup v1.0.0 h1:Lv9xI14JptnNXb12k/N/HSvnQ9JQZUIfXBY5/5PzcS4=
-github.com/swithek/sessionup v1.0.0/go.mod h1:2Hw9qm+mH/p/6dEwqYeQl9pee8rqjrYDTJ2XhET9Oyg=
 xojoc.pw/useragent v0.0.0-20170215185434-52903803fc66 h1:j5PlwzvW29USBoG/MvJPT5kDvX+0+lVLlOdnujOlN94=
 xojoc.pw/useragent v0.0.0-20170215185434-52903803fc66/go.mod h1:71om/Qz9HbIEjbUrkrzmJiF26FSh6tcwqSFdBBkLtJQ=

@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/DATA-DOG/go-sqlmock"
+	"github.com/jellydator/sessionup"
 	"github.com/lib/pq"
-	"github.com/swithek/sessionup"
 )
 
 var terr = errors.New("error")

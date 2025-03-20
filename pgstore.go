@@ -7,8 +7,8 @@ import (
 	"net"
 	"time"
 
+	"github.com/jellydator/sessionup"
 	"github.com/lib/pq"
-	"github.com/swithek/sessionup"
 )
 
 const table = `CREATE TABLE IF NOT EXISTS %s (
